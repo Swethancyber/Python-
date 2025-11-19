@@ -1,0 +1,7 @@
+ip = input("Enter your favorite color:")
+if ip == "red":
+    print("stop ")
+elif ip == "green":
+    print("go")
+else:
+    print(ip + " is your favorite color (or) unknown color")
